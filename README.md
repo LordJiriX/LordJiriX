@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi I'm LordJiriX
+### I'm a beginner in Minecraft Mod Development
 
+ I'm learning NeoForge
+### I can program in 
+- Java
+- JavaScript
+- HTML
+- CSS
 <!--
 **LordJiriX/LordJiriX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
