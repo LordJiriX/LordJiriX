@@ -1,7 +1,4 @@
-## Hi I'm LordJiriX
-### I'm a beginner in Minecraft Mod Development
 
- I'm learning NeoForge
 
 <!--
 **LordJiriX/LordJiriX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
